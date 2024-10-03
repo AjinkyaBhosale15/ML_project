@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Ajinkya/Desktop/ML_project/mlruns/0/2bd93b08a75449edac7b07d38bb56ea0/artifacts
+end_time: 1727962499424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bd93b08a75449edac7b07d38bb56ea0
+run_name: gaudy-croc-762
+run_uuid: 2bd93b08a75449edac7b07d38bb56ea0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727962460124
+status: 3
+tags: []
+user_id: root
